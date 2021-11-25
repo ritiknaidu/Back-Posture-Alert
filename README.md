@@ -1,0 +1,3 @@
+Back Posture Informant
+
+Proper posture is one of the easiest and simplest ways to keep our spine healthy. This may require some practice and care, but proper posture provides adequate back support. This project was a natural result of the need to provide a solution to this problem. Through Back Posture Informant we aim to at least provide a helping hand to the people who wish to improve their posture and avoid any health risks. We have created an alerting system that will let the user know if their posture is incorrect. The algorithm would be able to detect a wrong posture using the webcam available in the user’s computer screen and if an incorrect posture is detected the program will give the user a notification through their system, alerting them of their posture. 
